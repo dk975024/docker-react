@@ -1,0 +1,1 @@
+cmd_/home/ec2-user/node-v12.13.1/out/Release/obj.target/tools/icu/libicudata.a := rm -f /home/ec2-user/node-v12.13.1/out/Release/obj.target/tools/icu/libicudata.a && ar crsT /home/ec2-user/node-v12.13.1/out/Release/obj.target/tools/icu/libicudata.a /home/ec2-user/node-v12.13.1/out/Release/obj.target/icudata/gen/icusmdt64_dat.o
